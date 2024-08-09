@@ -1,0 +1,14 @@
+# Ignore class files and other compiled files
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore IDE-specific files
+.vscode/
+
+# Ignore data files
+data/
+
+# Ignore JAR files
+*.jar
